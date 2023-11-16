@@ -13,6 +13,7 @@
 		FD18C83F2B02827E0047CAD2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD18C83D2B02827E0047CAD2 /* Main.storyboard */; };
 		FD18C8412B0282830047CAD2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD18C8402B0282830047CAD2 /* Assets.xcassets */; };
 		FD18C8442B0282830047CAD2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD18C8422B0282830047CAD2 /* LaunchScreen.storyboard */; };
+		FD18C84C2B02897D0047CAD2 /* captionOption.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD18C84B2B02897D0047CAD2 /* captionOption.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FD18C8402B0282830047CAD2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FD18C8432B0282830047CAD2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FD18C8452B0282830047CAD2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FD18C84B2B02897D0047CAD2 /* captionOption.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = captionOption.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				FD18C8372B02827E0047CAD2 /* AppDelegate.swift */,
 				FD18C8392B02827E0047CAD2 /* SceneDelegate.swift */,
 				FD18C83B2B02827E0047CAD2 /* ViewController.swift */,
+				FD18C84B2B02897D0047CAD2 /* captionOption.swift */,
 				FD18C83D2B02827E0047CAD2 /* Main.storyboard */,
 				FD18C8402B0282830047CAD2 /* Assets.xcassets */,
 				FD18C8422B0282830047CAD2 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FD18C83C2B02827E0047CAD2 /* ViewController.swift in Sources */,
+				FD18C84C2B02897D0047CAD2 /* captionOption.swift in Sources */,
 				FD18C8382B02827E0047CAD2 /* AppDelegate.swift in Sources */,
 				FD18C83A2B02827E0047CAD2 /* SceneDelegate.swift in Sources */,
 			);
